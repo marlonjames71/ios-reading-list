@@ -56,8 +56,8 @@
 		370CE33222B05D3200B66EDA /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				370CE33322B0605400B66EDA /* ReadingListTableViewController.swift */,
 				370CE33522B0609000B66EDA /* BookTableViewCell.swift */,
+				370CE33322B0605400B66EDA /* ReadingListTableViewController.swift */,
 				370CE33722B063D500B66EDA /* BookDetailViewController.swift */,
 				4669416A2110E22B00E7FF73 /* DetailViewController.swift */,
 				370CE32F22B05CF400B66EDA /* BookController.swift */,

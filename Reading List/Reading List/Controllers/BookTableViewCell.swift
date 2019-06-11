@@ -10,10 +10,12 @@ import UIKit
 
 class BookTableViewCell: UITableViewCell {
 
-	
+	var book: Book?
 	
 	@IBOutlet var bookLabel: UILabel!
 	@IBOutlet var checkboxButton: UIButton!
+	
+	
 	
     override func awakeFromNib() {
         super.awakeFromNib()
